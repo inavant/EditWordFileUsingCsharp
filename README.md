@@ -1,4 +1,4 @@
-# EditWordFileUsingCsharp
+# Edit Word File Using C#
 Create and edit a Word file from template using C#
 
 ## Summary
